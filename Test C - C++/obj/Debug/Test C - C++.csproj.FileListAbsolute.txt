@@ -1,0 +1,12 @@
+C:\Users\student\Documents\Visual Studio 2017\Projects\Test C - C++\Test C - C++\bin\Debug\Test C - C++.exe.config
+C:\Users\student\Documents\Visual Studio 2017\Projects\Test C - C++\Test C - C++\bin\Debug\Test C - C++.exe
+C:\Users\student\Documents\Visual Studio 2017\Projects\Test C - C++\Test C - C++\bin\Debug\Test C - C++.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\Test C - C++\Test C - C++\obj\Debug\Test C - C++.exe
+C:\Users\student\Documents\Visual Studio 2017\Projects\Test C - C++\Test C - C++\obj\Debug\Test C - C++.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\Test C - C++\Test C - C++\obj\Debug\Test C - C++.csprojResolveAssemblyReference.cache
+C:\Users\Богдан\Desktop\Test C - C++\Test C - C++\bin\Debug\Test C - C++.exe.config
+C:\Users\Богдан\Desktop\Test C - C++\Test C - C++\bin\Debug\Test C - C++.exe
+C:\Users\Богдан\Desktop\Test C - C++\Test C - C++\bin\Debug\Test C - C++.pdb
+C:\Users\Богдан\Desktop\Test C - C++\Test C - C++\obj\Debug\Test C - C++.csprojResolveAssemblyReference.cache
+C:\Users\Богдан\Desktop\Test C - C++\Test C - C++\obj\Debug\Test C - C++.exe
+C:\Users\Богдан\Desktop\Test C - C++\Test C - C++\obj\Debug\Test C - C++.pdb
